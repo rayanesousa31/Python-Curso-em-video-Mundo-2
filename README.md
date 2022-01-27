@@ -41,7 +41,7 @@ A confederação nacional de natação precisa de um programa que leia o ano de 
 - até 9 anos  : MIRIM
 - até 14 anos: INFNTIL
 - até 19 anos: JUNIOR
-- até 20 anos: SENIOE
+- até 20 anos: SENIOR
 - ACIMA: MASTER
 
 
